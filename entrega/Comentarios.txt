@@ -1,0 +1,5 @@
+* Bien por colocar el botón de actulizar cotización y mostrar el toast con la actualización exitosa. Debieran mostrar la fecha y hora de la última actualización
+
+* Algunas cotizaciones tienen 3 decimales en lugar de dos, todas las cotizaciones debieran tener 2 decimales por consistencia
+
+* En el caso de que la variación sea 0, debieran mostrar otro símbolo para mostrar esto. Actualmente se muestra un simbolo verde de flecha hacia arriba, podrian mostrar un simbolo de = para representar esta situación
